@@ -1,0 +1,58 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Lisa valge taustaga läbipaistvus */
+    border-radius: 15px; /* Ümardatud nurgad */
+    padding: 20px;
+    max-width: 800px; /* Maksimaalne laius */
+    margin: 0 auto; /* Keset paigutamine */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Kerge vari */
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+.button-link {
+    text-decoration: none;
+}
+
+.main-button {
+    font-size: 25px;
+    background-color: #e59866; /* Oranžikas toon */
+    color: #a52a2a; /* Tumepruun */
+    border-radius: 25px;
+    margin: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+}
+
+.main-heading {
+    color: #d19b54; /* Kuldne toon */
+    margin-top: 20px;
+}
+
+.main-image {
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 10px; /* Ümardatud nurgad */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Kerge vari */
+}
+
+video {
+    margin-top: 20px;
+    border-radius: 10px; /* Ümardatud nurgad */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Kerge vari */
+}
