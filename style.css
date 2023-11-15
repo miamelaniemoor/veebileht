@@ -72,7 +72,8 @@ h1 {
     font-family: "Georgia", serif;
 }
 
-body {
+.menüü {
     background-color: #efd8ef;
+    text-align: left;
 }
 
