@@ -12,3 +12,8 @@ h1 {
     font-size: 28px;
     font-family: "Georgia", serif;
 }
+
+.menüü {
+    background-color: #efd8ef;
+    text-align: left;
+}
