@@ -58,7 +58,7 @@ video {
 }
 
 h3 {
-    color: #ca8ccb; 
+    color: #d19b54; 
     font-size: 34px; 
     font-family: Georgia, sans-serif; 
     font-weight: bold; 
@@ -73,14 +73,18 @@ h1 {
 }
 
 .menüü {
-    background-color: #efd8ef;
+    background-color: rgb(249, 215, 189);
     text-align: left;
     background-image: url(background.jpg);
     background-size: cover;
     background-position: center;
 }
 
-.menüü_pilt  {
-     
+.menüü_pilt {
+    max-width: 200px;
+    max-height: 200px;
+    margin-right: 20px;
+    border-radius: 5px;
 }
+
 
