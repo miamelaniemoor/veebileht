@@ -75,5 +75,8 @@ h1 {
 .menüü {
     background-color: #efd8ef;
     text-align: left;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
