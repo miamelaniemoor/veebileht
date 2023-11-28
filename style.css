@@ -72,6 +72,13 @@ h1 {
     font-family: "Georgia", serif;
 }
 
+h2 {
+    color: #7f6d7f;
+    text-align: center;
+    font-size: 28px;
+    font-family: "Georgia", serif;
+}
+
 .menüü {
     background-color: rgb(249, 215, 189);
     text-align: left;
@@ -87,4 +94,10 @@ h1 {
     border-radius: 5px;
 }
 
+.kassi_pilt {
+    max-width: 300px;
+    max-height: 300px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
 
