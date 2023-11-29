@@ -23,3 +23,6 @@ var imagePairs = [
     console.error("no pairs", fileName);
   }
   
+// JS on tehtud koos Chat GPT abiga. 
+// var imagePairs loob kassifotodega massiivi. 
+// Funktsioon changeImage võtab argumendina pildiobjekti (img) ja muudab selle algallika (src) järgmiseks failiks samast paaride komplektist.
